@@ -1,3 +1,3 @@
 # Barbershop
 ParikmaHER
-Hi
+Вёрстка для портфолио с нуля до конца

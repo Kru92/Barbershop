@@ -1,0 +1,25 @@
+{
+  "name": "Barbershop",
+  "version": "1.0.0",
+  "description": "ParikmaHER\r Вёрстка для портфолио с нуля до конца",
+  "main": "index.js",
+  "dependencies": {
+    "node-static": "^0.7.10",
+    "static-server": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kru92/Barbershop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kru92/Barbershop/issues"
+  },
+  "homepage": "https://github.com/Kru92/Barbershop#readme"
+}

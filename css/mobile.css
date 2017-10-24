@@ -1,0 +1,6 @@
+@import "normalize.css";
+
+.body-inner {
+    display: flex;
+    flex-direction: column;
+}
